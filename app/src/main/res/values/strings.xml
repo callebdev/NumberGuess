@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore = "ExtraTranslation">
+    <string name="app_name">NumberGuess</string>
+    <string name="title.numberguess">NumberGuess</string>
+    <string name="btn.start">Start</string>
+    <string name="label.guess">Guess a number:</string>
+    <string name="btn.do.guess">Do guess!</string>
+    <string name="edit.number">Number</string>
+    <string name="status.start.info">Press START to start a game</string>
+    <string name="label.log">Log:</string>
+    <string name="guess.hint">Guess a number between %1$d and %2$d</string>
+    <string name="status.too.low">Sorry, too low.</string>
+    <string name="status.too.high">Sorry, too high.</string>
+    <string name="status.hit">You got it after %1$d tries! Press START for a new game.</string>
+</resources>
