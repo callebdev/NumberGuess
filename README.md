@@ -5,6 +5,6 @@ The game has a Console that continuously indicates all types of activities perfo
 
 ## Screenshots
 
-![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161610.png "When the user clicks the Start button" width="48")
+<img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161610.png" width="200" height="400")
 ![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161458.png "When the user chooses a lower number")
 ![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161533.png "When the user chooses the correct number")
