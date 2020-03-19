@@ -4,7 +4,10 @@ With each move, the game informs whether the number the player entered is close 
 The game has a Console that continuously indicates all types of activities performed within the game.
 
 ## Screenshots
-
-![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161610.png "When the game starts")
-![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161458.png "When the user chooses a lower number")
-![Alt text](https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161533.png "When the user chooses the correct number")
+<table width="100%">
+  <tr>
+    <th width="25%"><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161610.png"></th>
+    <th width="25%><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161458.png"></th>
+    <th width="25%><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161533.png"></th>
+  </tr>
+</table>
