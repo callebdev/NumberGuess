@@ -7,7 +7,7 @@ The game has a Console that continuously indicates all types of activities perfo
 <table width="100%">
   <tr>
     <th width="25%"><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161610.png"></th>
-    <th width="25%><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161458.png"></th>
-    <th width="25%><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161533.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161458.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/NumberGuess/blob/master/app/Screenshots/Screenshot_20200313-161533.png"></th>
   </tr>
 </table>
